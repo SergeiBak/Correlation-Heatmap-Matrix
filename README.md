@@ -17,8 +17,8 @@ First, make sure to place all of your data into columns into excel spreadsheet w
 <img width="528.768" height="297.432" src="https://user-images.githubusercontent.com/77221025/164954818-db6ff46b-2398-4250-922e-da25ed8607ab.png">        
 
 Next, create & open a new jupyter notebook, and begin typing and running the following lines as follows:
-- First, make sure to import the following libraries: 
-`import pandas as pd
+- First, make sure to import the following libraries: <br/>
+`import pandas as pd<br/>
 import seaborn as sns
 import matplotlib.pyplot as plt`
 ![image](https://user-images.githubusercontent.com/77221025/164955017-9f01f404-de84-41af-b2f7-00cf0b5c51f4.png)
