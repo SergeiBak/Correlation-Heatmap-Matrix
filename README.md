@@ -18,9 +18,15 @@ First, make sure to place all of your data into columns into excel spreadsheet w
 
 Next, create & open a new jupyter notebook, and begin typing and running the following lines as follows:
 - First, make sure to import the following libraries: <br/>
-![image](https://user-images.githubusercontent.com/77221025/164955017-9f01f404-de84-41af-b2f7-00cf0b5c51f4.png)
+![image](https://user-images.githubusercontent.com/77221025/164955017-9f01f404-de84-41af-b2f7-00cf0b5c51f4.png)   
 
-- 
+- Next, read in your Excel file and use the .head() function to check if the output is correct:
+![image](https://user-images.githubusercontent.com/77221025/164955193-9817ddd3-7b9c-4f84-872c-1e3999258b47.png)   
+
+- After that, generate the correlations weights using .corr():
+![image](https://user-images.githubusercontent.com/77221025/164955276-3eee29d1-e318-47c2-b6a7-dfe6c4143ddb.png)  
+
+
 
 ## Technologies
 - Anaconda
