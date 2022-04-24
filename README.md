@@ -11,12 +11,19 @@
 As part of a case assignment, I was asked to put together a data visualization model known as a *correlation heatmap matrix* in order to be able to identify some of the main correlations occuring between events. For this, I found some helpful resources and after compiling all of the data into an excel spreadsheet I was able to produce the heatmap matrix. The process was relatively easy & straightforward to follow, so I decided to put together this helpful little guide for anyone who wishes to put together a similar model to the one shown above!   
 
 ## Steps
-*Note*: In order to be able to follow this guide make sure you have Jupyter Notebook setup and able to run with Python.     
+*Note*: In order to be able to follow this guide, make sure you have Jupyter Notebook setup and able to run with Python.     
 
-First, make sure to place all of your data into columns into excel spreadsheet with the first row containing the columns names:
+First, make sure to place all of your data into columns into excel spreadsheet with the first row containing the columns names:      
 <img width="528.768" height="297.432" src="https://user-images.githubusercontent.com/77221025/164954818-db6ff46b-2398-4250-922e-da25ed8607ab.png">        
 
-Next, 
+Next, create & open a new jupyter notebook, and begin typing and running the following lines as follows:
+- First, make sure to import the following libraries: 
+`import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt`
+![image](https://user-images.githubusercontent.com/77221025/164955017-9f01f404-de84-41af-b2f7-00cf0b5c51f4.png)
+
+- 
 
 ## Technologies
 - Anaconda
