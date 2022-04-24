@@ -18,8 +18,8 @@ First, make sure to place all of your data into columns into excel spreadsheet w
 
 Next, create & open a new jupyter notebook, and begin typing and running the following lines as follows:
 - First, make sure to import the following libraries: <br/>
-`import pandas as pd<br/>
-import seaborn as sns
+`import pandas as pd    
+import seaborn as sns    
 import matplotlib.pyplot as plt`
 ![image](https://user-images.githubusercontent.com/77221025/164955017-9f01f404-de84-41af-b2f7-00cf0b5c51f4.png)
 
