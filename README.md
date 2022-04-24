@@ -14,7 +14,7 @@ As part of a case assignment, I was asked to put together a data visualization m
 *Note*: In order to be able to follow this guide make sure you have Jupyter Notebook setup and able to run with Python.     
 
 First, make sure to place all of your data into columns into excel spreadsheet with the first row containing the columns names:
-<img width="352.512" height="198.288" src="https://user-images.githubusercontent.com/77221025/164954818-db6ff46b-2398-4250-922e-da25ed8607ab.png">        
+<img width="528.768" height="297.432" src="https://user-images.githubusercontent.com/77221025/164954818-db6ff46b-2398-4250-922e-da25ed8607ab.png">        
 
 Next, 
 
