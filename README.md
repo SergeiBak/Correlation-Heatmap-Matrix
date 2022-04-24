@@ -23,9 +23,11 @@ Next, create & open a new jupyter notebook, and begin typing and running the fol
 - Next, read in your Excel file and use the .head() function to check if the output is correct:
 ![image](https://user-images.githubusercontent.com/77221025/164955193-9817ddd3-7b9c-4f84-872c-1e3999258b47.png)   
 
-- After that, generate the correlations weights using .corr():
+- After that, generate the correlation weights using .corr():
 ![image](https://user-images.githubusercontent.com/77221025/164955276-3eee29d1-e318-47c2-b6a7-dfe6c4143ddb.png)  
 
+- Lastly, use the following lines and voilà, you have your heatmap!
+![image](https://user-images.githubusercontent.com/77221025/164955347-2c1e4e8b-894d-42a9-8957-5b37c989aab6.png)  
 
 
 ## Technologies
